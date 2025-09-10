@@ -1,0 +1,27 @@
+                                      allin.movilepay.com
+                                      e.allin.allin.movilepay.com
+                                      e.allin.movilepay.com
+                                      img.allin.allin.movilepay.com
+                                      img.allin.movilepay.com
+                                      origin-www.movilepay.com
+                                      pm03-1.allin.movilepay.com
+                                      pm04-1.allin.movilepay.com
+                                      r.allin.allin.movilepay.com
+                                      r.allin.movilepay.com
+                                      starsoft.movilepay.com
+                                      vouchers-dev.ifood-sandbox.com.br.movilepay.com
+                                      www.allin.movilepay.com
+                                      www.movilepay.com
+                                  clientDeleteProhibited.movilepay.com
+                                  clientTransferProhibited.movilepay.com
+                                  clientUpdateProhibited.movilepay.com
+allin.movilepay.com
+e.allin.allin.movilepay.com
+e.allin.movilepay.com
+img.allin.allin.movilepay.com
+img.allin.movilepay.com
+movilepay.com
+movilepay.com.br
+pm03-1.allin.movilepay.com
+pm04-1.allin.movilepay.com
+www.movilepay.com

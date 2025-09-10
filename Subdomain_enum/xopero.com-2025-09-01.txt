@@ -1,0 +1,501 @@
+                                      0b1860b9-c1cd-4be4-b5ba-06e63e61e9d0.ads.xopero.com
+                                      10b12379-d09d-5001-ad31-f7f22585767a.azr.xopero.com
+                                      17eb1f00-f5a7-43be-917f-843457d1a3ce.azr.xopero.com
+                                      18b75211-b417-56fb-86c1-7176170c4e70.azr.xopero.com
+                                      1a22f8c0-af3f-534f-bb09-dcccbf12f89b.azr.xopero.com
+                                      3f509820-99f1-5c0c-a1d8-fc928239ecdc.azr.xopero.com
+                                      41b4269f-ef18-5481-9ea6-5eb8ff87a155.azr.xopero.com
+                                      455c60a6-5a83-5ba0-bfb9-3e6c746f8e50.azr.xopero.com
+                                      47be8346-3dcc-5f7b-92dd-5c596d872e71.azr.xopero.com
+                                      4e47ac32-eab7-5245-8011-969f5d0e50ee.azr.xopero.com
+                                      50db2edb-41d7-59f3-a115-eb574264cbc3.azr.xopero.com
+                                      63d7dd4c-0150-591b-84b0-3d3fbb36ca73.azr.xopero.com
+                                      65601b96-32be-5568-afb9-73de35ae5987.azr.xopero.com
+                                      6565605d-a41b-5563-bc0b-ad7c97681522.azr.xopero.com
+                                      6bf61fb8-0e19-5224-ab79-3f6f54d9cc82.azr.xopero.com
+                                      7991b373-f978-5f20-9efc-7b454f5805f7.azr.xopero.com
+                                      83fd1e97-24da-55fc-8df0-be769b38474b.azr.xopero.com
+                                      86dd75e0-d491-5801-8241-d36cee4fd67f.azr.xopero.com
+                                      8e63e548-7e85-556e-8b4f-478eaf8b9a60.azr.xopero.com
+                                      9207e7ff-3d30-45ba-aeff-ee9e2c2f1fb4.azr.xopero.com
+                                      9c98c659-d24d-5f4a-aa0f-127b43720c48.azr.xopero.com
+                                      9e85cff8-56ad-5aa9-ab7d-e9bd8a5d5a35.azr.xopero.com
+                                      a184f403-96da-5058-8d0c-54db95d1e894.azr.xopero.com
+                                      a48ee882-98b9-44c6-9470-2a3bce5d36df.azr.xopero.com
+                                      a89755ab-d85f-5019-a9c1-3de5785ce2e2.azr.xopero.com
+                                      aacbada4-2f77-512b-8aa7-47623863f515.azr.xopero.com
+                                      ac85a681-581a-5b0e-977b-c71f7d379be5.azr.xopero.com
+                                      activate.xopero.com
+                                      activation.xopero.com
+                                      admin.lab.dev.xopero.com
+                                      af914237-ecdf-5ef6-af6c-8685917a9f1a.azr.xopero.com
+                                      api.xopero.com
+                                      apt.xopero.com
+                                      armucloud.xopero.com
+                                      asia.xopero.com
+                                      asiarepo.xopero.com
+                                      asiastorage.xopero.com
+                                      azc.xopero.com
+                                      azure-devops.local.dev.xopero.com
+                                      b2148f81-06a6-5624-abf7-d026b621492a.azr.xopero.com
+                                      b8af90b9-f23f-5bae-8237-4cbb24c33899.azr.xopero.com
+                                      bbdc.local.dev.xopero.com
+                                      bc2b8e61-e3e9-5f7c-ac36-2caa45ffaedd.azr.xopero.com
+                                      bi.fin.xopero.com
+                                      blog.xopero.com
+                                      bluescreen.xopero.com
+                                      brajanek.xopero.com
+                                      brandwatcher.xopero.com
+                                      c50ac66d-98d3-45d4-a269-e5fa735373f7.azr.xopero.com
+                                      c9e43780-7f0f-536c-a965-2d9230da7c8e.azr.xopero.com
+                                      caronnicloudbackup.xopero.com
+                                      cc6d1bda-b3f0-5fe7-9be9-0fe426fab810.azr.xopero.com
+                                      cd5f93a4-678e-5152-9075-2adaf4ee6fdb.azr.xopero.com
+                                      cdn01.cdn.xopero.com
+                                      cdn02.cdn.xopero.com
+                                      cdn03.cdn.xopero.com
+                                      cdn04.cdn.xopero.com
+                                      certification.xopero.com
+                                      certtest.xopero.com
+                                      checkout.xopero.com
+                                      cloud.lab.dev.xopero.com
+                                      cloud.xopero.com
+                                      cloud1admin.xopero.com
+                                      cloud2.xopero.com
+                                      cloud2admin.xopero.com
+                                      cloud3.lab.dev.xopero.com
+                                      cloud3.xopero.com
+                                      cloud3admin.xopero.com
+                                      cloud3repo.xopero.com
+                                      cloud3storage.xopero.com
+                                      cloud4.xopero.com
+                                      cloud4admin.xopero.com
+                                      cloud4repo.xopero.com
+                                      cloud4storage.xopero.com
+                                      cloud5.xopero.com
+                                      consulentetecnicoinformatico.xopero.com
+                                      crpcloud.xopero.com
+                                      d2b0254e-7c93-5c11-900c-15e045fb66ad.azr.xopero.com
+                                      data.tc2.local.dev.xopero.com
+                                      data.tc4.local.dev.xopero.com
+                                      data.tc4backup.local.dev.xopero.com
+                                      data.tc5opc.local.dev.xopero.com
+                                      data.zabbix-lodz.dev.xopero.com
+                                      data.zabbix-us.dev.xopero.com
+                                      dba.xopero.com
+                                      dbviewer.xopero.com
+                                      dec98d49-55fa-5b79-b7d4-60369759002d.azr.xopero.com
+                                      dev.xopero.com
+                                      dgdcloud.xopero.com
+                                      dns-azr.xopero.com
+                                      dns-xyz.xopero.com
+                                      dockerhost.xopero.com
+                                      docs.dev.xopero.com
+                                      e56efe99-ae3e-43d9-a359-e5e43a0683e2.azr.xopero.com
+                                      e9a2651f-2d20-5ca7-9ed8-f09170579d83.azr.xopero.com
+                                      ec7d1205-cf2d-5f60-9e9a-b8c1d86ff046.azr.xopero.com
+                                      egasoft.xopero.com
+                                      email.mg.xopero.com
+                                      env-6199228.unicloud.pl.xopero.com
+                                      errecloud.xopero.com
+                                      f2b66b7c-c9c0-58a1-b4b8-1dbc0ff254af.azr.xopero.com
+                                      f75e242a-2855-5198-bf47-c4e435484332.azr.xopero.com
+                                      f933bb64-c826-50fb-8484-e76e2324e032.azr.xopero.com
+                                      fin.xopero.com
+                                      getsupport.xopero.com
+                                      ghe.baj.dev.xopero.com
+                                      ghe.local.dev.xopero.com
+                                      ghe.test.xopero.com
+                                      gitlab.local.dev.xopero.com
+                                      glpi.local.dev.xopero.com
+                                      helpcenter.xopero.com
+                                      impasolution.xopero.com
+                                      infoservice.xopero.com
+                                      infoware.xopero.com
+                                      infra.xopero.com
+                                      install.xopero.com
+                                      introcz.xopero.com
+                                      iobackup.xopero.com
+                                      ipmi-xup-rack.local.dev.xopero.com
+                                      itinformatica.xopero.com
+                                      java.xopero.com
+                                      jenkins.xopero.com
+                                      k8s-test-certs.dev.xopero.com
+                                      kb.xopero.com
+                                      kyberinformatica.xopero.com
+                                      lab.dev.xopero.com
+                                      lab.msp.xopero.com
+                                      lablogin.xopero.com
+                                      labshop.xopero.com
+                                      linux.xopero.com
+                                      login.xopero.com
+                                      logs.xopero.com
+                                      lp.xopero.com
+                                      ls.xopero.com
+                                      martinesofficeworld.xopero.com
+                                      mbmservice.xopero.com
+                                      megaservice.xopero.com
+                                      moniba.xopero.com
+                                      monitoring.staging.dev.xopero.com
+                                      monitoring.testing.xopero.com
+                                      monitoring.xopero.com
+                                      mousecomputers.xopero.com
+                                      msp.pentesty.xopero.com
+                                      msp.xopero.com
+                                      netbox.local.dev.xopero.com
+                                      olb4.xopero.com
+                                      olvm.dev.xopero.com
+                                      one.dev.xopero.com
+                                      one.xopero.com
+                                      panel.xcm.xopero.com
+                                      pcsenzaproblemi.xopero.com
+                                      piwik.xopero.com
+                                      pm.xopero.com
+                                      pm2.xopero.com
+                                      pm4.local.dev.xopero.com
+                                      promo.xopero.com
+                                      proxmox-bottom.local.dev.xopero.com
+                                      qnap.xopero.com
+                                      rcp.local.dev.xopero.com
+                                      repo.lab.dev.xopero.com
+                                      repo.xopero.com
+                                      repo2.xopero.com
+                                      repo2v2.xopero.com
+                                      repository.dev.xopero.com
+                                      repov2.xopero.com
+                                      roitech.xopero.com
+                                      sage.xopero.com
+                                      securityportal.xopero.com
+                                      semaphore-ro.local.dev.xopero.com
+                                      semaphore-rw.local.dev.xopero.com
+                                      semaphore.local.dev.xopero.com
+                                      sginformatica.xopero.com
+                                      shop.xopero.com
+                                      sigmainformatica.xopero.com
+                                      sispac.xopero.com
+                                      slovaktelekom.xopero.com
+                                      spytek.xopero.com
+                                      staging.xopero.com
+                                      stah.xopero.com
+                                      status.xopero.com
+                                      storage.lab.dev.xopero.com
+                                      strongboxadmin.xopero.com
+                                      strongboxrepo.xopero.com
+                                      support.xopero.com
+                                      support2.xopero.com
+                                      sync.xopero.com
+                                      t-cloud.xopero.com
+                                      tc.local.dev.xopero.com
+                                      tc2.local.dev.xopero.com
+                                      tc23.dev.xopero.com
+                                      tc3.local.dev.xopero.com
+                                      tc4.local.dev.xopero.com
+                                      tc4backup.local.dev.xopero.com
+                                      tc5opc.local.dev.xopero.com
+                                      tcloudrepo.xopero.com
+                                      tecnograph.xopero.com
+                                      telekom.xopero.com
+                                      test.blog.xopero.com
+                                      test.slovaktelekom.local.dev.xopero.com
+                                      test.wwwinstall.xopero.com
+                                      test.xopero.com
+                                      testing.xopero.com
+                                      tovit.xopero.com
+                                      ufficioleadernt.xopero.com
+                                      usadmin.xopero.com
+                                      usc.xopero.com
+                                      uscloud.xopero.com
+                                      usnet.xopero.com
+                                      usrepo.xopero.com
+                                      usrepo1.xopero.com
+                                      usstorage.xopero.com
+                                      vmware.baj.dev.xopero.com
+                                      vpn2.xopero.com
+                                      wazuh.dev.xopero.com
+                                      wazuh.local.dev.xopero.com
+                                      wdb.xopero.com
+                                      wireguard.dev.xopero.com
+                                      www.cloud.xopero.com
+                                      www.qnap.xopero.com
+                                      www.slovaktelekom.xopero.com
+                                      www.test.xopero.com
+                                      www.testing.xopero.com
+                                      www.xopero.com
+                                      wwwadmin.xopero.com
+                                      wwwinstall.xopero.com
+                                      x198.local.dev.xopero.com
+                                      x2backup.xopero.com
+                                      xcm.dev.xopero.com
+                                      xcm.staging.xopero.com
+                                      xcm.testing.xopero.com
+                                      xcm.xopero.com
+                                      xdbs6.xopero.com
+                                      xoa.xopero.com
+                                      zabbix-lodz.dev.xopero.com
+                                      zabbix-us.dev.xopero.com
+                                      zabbix.xopero.com
+                                      zendesk.xopero.com
+                                  clientTransferProhibited.xopero.com
+10b12379-d09d-5001-ad31-f7f22585767a.azr.xopero.com
+17eb1f00-f5a7-43be-917f-843457d1a3ce.azr.xopero.com
+18b75211-b417-56fb-86c1-7176170c4e70.azr.xopero.com
+1a22f8c0-af3f-534f-bb09-dcccbf12f89b.azr.xopero.com
+3f509820-99f1-5c0c-a1d8-fc928239ecdc.azr.xopero.com
+41b4269f-ef18-5481-9ea6-5eb8ff87a155.azr.xopero.com
+41b6bc9c-1f9a-4cfa-b2e5-02e672c374fb.ams.xopero.com
+455c60a6-5a83-5ba0-bfb9-3e6c746f8e50.azr.xopero.com
+47be8346-3dcc-5f7b-92dd-5c596d872e71.azr.xopero.com
+4e47ac32-eab7-5245-8011-969f5d0e50ee.azr.xopero.com
+50db2edb-41d7-59f3-a115-eb574264cbc3.azr.xopero.com
+60c52ff5-48ec-4c2d-92eb-1e05f20a3a60.usc.xopero.com
+63d7dd4c-0150-591b-84b0-3d3fbb36ca73.azr.xopero.com
+65601b96-32be-5568-afb9-73de35ae5987.azr.xopero.com
+6565605d-a41b-5563-bc0b-ad7c97681522.azr.xopero.com
+6bf61fb8-0e19-5224-ab79-3f6f54d9cc82.azr.xopero.com
+7991b373-f978-5f20-9efc-7b454f5805f7.azr.xopero.com
+7e470de1-f99b-474f-b24c-5ec45effd18a.ams.xopero.com
+83fd1e97-24da-55fc-8df0-be769b38474b.azr.xopero.com
+86dd75e0-d491-5801-8241-d36cee4fd67f.azr.xopero.com
+8c3fcdb3-d693-5e9f-91a2-0de924cbe7e9.azr.xopero.com
+8e63e548-7e85-556e-8b4f-478eaf8b9a60.azr.xopero.com
+8f919fda-2101-512b-83f7-27d226ce76b6.azr.xopero.com
+9207e7ff-3d30-45ba-aeff-ee9e2c2f1fb4.azr.xopero.com
+9c98c659-d24d-5f4a-aa0f-127b43720c48.azr.xopero.com
+9d520221-ab51-40fe-84da-91671f6750f7.azr.xopero.com
+9e85cff8-56ad-5aa9-ab7d-e9bd8a5d5a35.azr.xopero.com
+a184f403-96da-5058-8d0c-54db95d1e894.azr.xopero.com
+a48ee882-98b9-44c6-9470-2a3bce5d36df.azr.xopero.com
+a4fe8d95-bb22-5926-a3d8-99ef8b841f3c.azr.xopero.com
+a598c78a-f712-4bcb-ad09-9ee50b5ac7ae.azr.xopero.com
+a89755ab-d85f-5019-a9c1-3de5785ce2e2.azr.xopero.com
+aacbada4-2f77-512b-8aa7-47623863f515.azr.xopero.com
+ac85a681-581a-5b0e-977b-c71f7d379be5.azr.xopero.com
+activate.xopero.com
+activation.xopero.com
+ada.xopero.com
+adb.xopero.com
+adc.xopero.com
+add.xopero.com
+ade.xopero.com
+ads.xopero.com
+adz.xopero.com
+af914237-ecdf-5ef6-af6c-8685917a9f1a.azr.xopero.com
+ams.xopero.com
+api.xopero.com
+armucloud.xopero.com
+asia.xopero.com
+asiane1.poc.dev.xopero.com
+asiane2.poc.dev.xopero.com
+asiarepo.xopero.com
+asiastorage.xopero.com
+ause1.poc.dev.xopero.com
+auto-map.testing.xopero.com
+azc.xopero.com
+azure-devops.local.dev.xopero.com
+b2148f81-06a6-5624-abf7-d026b621492a.azr.xopero.com
+b8af90b9-f23f-5bae-8237-4cbb24c33899.azr.xopero.com
+bbdc.local.dev.xopero.com
+bc2b8e61-e3e9-5f7c-ac36-2caa45ffaedd.azr.xopero.com
+bi.fin.xopero.com
+blog.xopero.com
+bluescreen.xopero.com
+brandwatcher.xopero.com
+c50ac66d-98d3-45d4-a269-e5fa735373f7.azr.xopero.com
+c9e43780-7f0f-536c-a965-2d9230da7c8e.azr.xopero.com
+caronnicloudbackup.xopero.com
+cc6d1bda-b3f0-5fe7-9be9-0fe426fab810.azr.xopero.com
+ccb4ce69-2fca-4339-a60d-f142ced6caac.azr.xopero.com
+cd5f93a4-678e-5152-9075-2adaf4ee6fdb.azr.xopero.com
+cdn01.cdn.xopero.com
+cdn02.cdn.xopero.com
+cdn03.cdn.xopero.com
+cdn04.cdn.xopero.com
+checkout.xopero.com
+cloud.lab.dev.xopero.com
+cloud.xopero.com
+cloud1admin.xopero.com
+cloud2.xopero.com
+cloud2admin.xopero.com
+cloud3.lab.dev.xopero.com
+cloud3.xopero.com
+cloud3admin.xopero.com
+cloud3repo.xopero.com
+cloud3storage.xopero.com
+cloud4.xopero.com
+cloud4admin.xopero.com
+cloud4repo.xopero.com
+cloud4storage.xopero.com
+cloud5.xopero.com
+cm.xopero.com
+consulentetecnicoinformatico.xopero.com
+crpcloud.xopero.com
+d2b0254e-7c93-5c11-900c-15e045fb66ad.azr.xopero.com
+data.tc2.local.dev.xopero.com
+data.tc4.local.dev.xopero.com
+data.tc4backup.local.dev.xopero.com
+data.tc5opc.local.dev.xopero.com
+dba.xopero.com
+dec98d49-55fa-5b79-b7d4-60369759002d.azr.xopero.com
+demo-docker-nginx.local.dev.xopero.com
+dev.xopero.com
+dgdcloud.xopero.com
+dockerhost.xopero.com
+docs.dev.xopero.com
+dr.local.dev.xopero.com
+e56efe99-ae3e-43d9-a359-e5e43a0683e2.azr.xopero.com
+e9a2651f-2d20-5ca7-9ed8-f09170579d83.azr.xopero.com
+ec7d1205-cf2d-5f60-9e9a-b8c1d86ff046.azr.xopero.com
+egasoft.xopero.com
+env-6199228.unicloud.pl.xopero.com
+errecloud.xopero.com
+f2b66b7c-c9c0-58a1-b4b8-1dbc0ff254af.azr.xopero.com
+f3e22ad8-8a6f-549b-98b3-b8ca1815d045.azr.xopero.com
+f75e242a-2855-5198-bf47-c4e435484332.azr.xopero.com
+f933bb64-c826-50fb-8484-e76e2324e032.azr.xopero.com
+getsupport.xopero.com
+ghe.baj.dev.xopero.com
+ghe.local.dev.xopero.com
+ghe.test.xopero.com
+gitlab.local.dev.xopero.com
+glpi.local.dev.xopero.com
+helpcenter.xopero.com
+impasolution.xopero.com
+infoservice.xopero.com
+infoware.xopero.com
+install.xopero.com
+introcz.xopero.com
+iobackup.xopero.com
+ipmi-xup-rack.local.dev.xopero.com
+itinformatica.xopero.com
+k8s-test-certs.dev.xopero.com
+kb.xopero.com
+kyberinformatica.xopero.com
+l.jesis@xopero.com
+lab.dev.xopero.com
+lab.msp.xopero.com
+lab4.dev.xopero.com
+lablogin.xopero.com
+local.dev.xopero.com
+login.xopero.com
+lp.xopero.com
+m.smolkowski@xopero.com
+m.wilk@xopero.com
+martinesofficeworld.xopero.com
+mbmservice.xopero.com
+megaservice.xopero.com
+mgmt.lab4.dev.xopero.com
+moniba.xopero.com
+monitoring.staging.dev.xopero.com
+monitoring.testing.xopero.com
+monitoring.xopero.com
+mousecomputers.xopero.com
+msp.pentesty.xopero.com
+msp.xopero.com
+netbox.local.dev.xopero.com
+office@xopero.com
+olb4.xopero.com
+olvm.dev.xopero.com
+one.dev.xopero.com
+one.xopero.com
+panel.xcm.xopero.com
+partners.xopero.com
+pcsenzaproblemi.xopero.com
+pentesty.xopero.com
+piwik.xopero.com
+pm4.local.dev.xopero.com
+poc.dev.xopero.com
+proxmox-bottom.local.dev.xopero.com
+qnap.xopero.com
+rcp.local.dev.xopero.com
+repo.lab4.dev.xopero.com
+repo.xopero.com
+repo2.xopero.com
+repository.dev.xopero.com
+roitech.xopero.com
+sage.xopero.com
+securityportal.xopero.com
+semaphore-ro.local.dev.xopero.com
+semaphore-rw.local.dev.xopero.com
+semaphore.local.dev.xopero.com
+sginformatica.xopero.com
+shop.xopero.com
+sigmainformatica.xopero.com
+sin.dev.xopero.com
+sin.staging.xopero.com
+sin.testing.xopero.com
+sin.xopero.com
+sispac.xopero.com
+slovaktelekom.xopero.com
+spytek.xopero.com
+staging.dev.xopero.com
+staging.xopero.com
+stah.xopero.com
+status.xopero.com
+stc.xopero.com
+storage.lab4.dev.xopero.com
+strongboxadmin.xopero.com
+strongboxrepo.xopero.com
+support.xopero.com
+sync.xopero.com
+t-cloud.xopero.com
+tc.local.dev.xopero.com
+tc2.local.dev.xopero.com
+tc23.dev.xopero.com
+tc3.local.dev.xopero.com
+tc4.local.dev.xopero.com
+tc4backup.local.dev.xopero.com
+tc4restoretest.local.dev.xopero.com
+tc5opc.local.dev.xopero.com
+tcloudrepo.xopero.com
+tech@xopero.com
+tecnograph.xopero.com
+test.blog.xopero.com
+test.slovaktelekom.local.dev.xopero.com
+test.wwwinstall.xopero.com
+test.xopero.com
+testing.xopero.com
+text.xopero.com
+tovit.xopero.com
+ufficioleadernt.xopero.com
+usadmin.xopero.com
+usc.xopero.com
+uscloud.xopero.com
+usd.xopero.com
+use.xopero.com
+usnet.xopero.com
+usrepo.xopero.com
+usstorage.xopero.com
+vmware.baj.dev.xopero.com
+waw.xopero.com
+wazuh.dev.xopero.com
+wazuh.local.dev.xopero.com
+wda.xopero.com
+wdb.xopero.com
+wdc.xopero.com
+wdd.xopero.com
+wiki.xopero.com
+wireguard.dev.xopero.com
+www.cloud.xopero.com
+www.qnap.xopero.com
+www.shop.xopero.com
+www.slovaktelekom.xopero.com
+www.test.xopero.com
+www.testing.xopero.com
+www.xopero.com
+www.xopero.com.pl
+www.zabbix-lodz.dev.xopero.com
+wwwinstall.xopero.com
+x198.local.dev.xopero.com
+x2backup.xopero.com
+xc0.xopero.com
+xc2.xopero.com
+xcm.dev.xopero.com
+xcm.staging.xopero.com
+xcm.testing.xopero.com
+xcm.xopero.com
+xoa.xopero.com
+xopero.com
+xopero.com.pl
+zabbix-lodz.dev.xopero.com
+zabbix-us.dev.xopero.com
+zendesk.xopero.com
